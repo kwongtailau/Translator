@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/ico/ico.png</file>
+        <file>resources/ico/ico2.png</file>
+        <file>resources/ico/icoSearch.png</file>
+    </qresource>
+    <qresource prefix="/word">
+        <file>resources/word/wordData.db</file>
+    </qresource>
+</RCC>
